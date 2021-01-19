@@ -22,5 +22,5 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 ## Deploying the App
 
- [Heroku Live Demo](https://quiet-cliffs-79313.herokuapp.com) 
+ [Heroku Live Demo](https://take-your-notes-here.herokuapp.com) 
 
